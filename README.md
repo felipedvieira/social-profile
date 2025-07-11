@@ -1,2 +1,2 @@
 # social-profile
-Social profile page
+This is a v.1 of my profile page linking to all my social accounts.
